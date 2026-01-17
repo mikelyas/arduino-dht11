@@ -1,1 +1,2 @@
-# arduino-dht11
+# Arduino DHT11 example
+In this example I am using an Adafruit's library [TinyDHT](https://github.com/adafruit/TinyDHT/tree/master) to read humidity and temperature in degrees Celcius from the DHT11 sensor. You'll find the datasheet to the sensor in the /Datasheet/ folder.
